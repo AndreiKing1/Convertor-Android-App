@@ -1,0 +1,8 @@
+<resources>
+    <string name="convertor">Convertor</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button_text">Register</string>
+    <string name="login_button_text">Login</string>
+    <string name="continue_without_account_text">Continue without account</string>
+</resources>

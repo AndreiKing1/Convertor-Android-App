@@ -1,0 +1,86 @@
+<resources>
+    <string-array name="length_conversion_types">
+        <item>Metri to Centimetri</item>
+        <item>Centimetri to Metri</item>
+        <item>Metri to Milimetri</item>
+        <item>Milimetri to Metri</item>
+        <item>Inci to Centimetri</item>
+        <item>Centimetri to Inci</item>
+        <item>Picioare to Metri</item>
+        <item>Metri to Picioare</item>
+        <item>Yarzi to Metri</item>
+        <item>Metri to Yarzi</item>
+        <item>Mile to Kilometri</item>
+        <item>Kilometri to Mile</item>
+    </string-array>
+    <string-array name="weight_conversion_types">
+        <item>Kilograme to Livre</item>
+        <item>Livre to Kilograme</item>
+        <item>Uncii to Grame</item>
+        <item>Grame to Uncii</item>
+    </string-array>
+    <string-array name="volume_conversion_types">
+        <item>Galoni to Litri</item>
+        <item>Litri to Galoni</item>
+        <item>Pinte to Mililitri</item>
+        <item>Mililitri to Pinte</item>
+    </string-array>
+    <string-array name="speed_conversion_types">
+        <item>Metri pe secundă to Kilometri pe oră</item>
+        <item>Kilometri pe oră to Metri pe secundă</item>
+        <item>Metri pe secundă to Mile pe oră</item>
+        <item>Mile pe oră to Metri pe secundă</item>
+        <item>Kilometri pe oră to Mile pe oră</item>
+        <item>Mile pe oră to Kilometri pe oră</item>
+    </string-array>
+    <string-array name="energy_conversion_types">
+        <item>Jouli to Calorii</item>
+        <item>Calorii to Jouli</item>
+    </string-array>
+    <string-array name="pressure_conversion_types">
+        <item>Pascali to Bari</item>
+        <item>Bari to Pascali</item>
+        <item>Pascali to Atmosfere</item>
+        <item>Atmosfere to Pascali</item>
+        <item>Milimetri coloană de mercur to Pascali</item>
+        <item>Pascali to Milimetri coloană de mercur</item>
+    </string-array>
+    <string-array name="area_conversion_types">
+        <item>Acri to Metri pătrați</item>
+        <item>Metri pătrați to Acri</item>
+        <item>Hectare to Metri pătrați</item>
+        <item>Metri pătrați to Hectare</item>
+    </string-array>
+    <string-array name="data_conversion_types">
+        <item>Biti to Bytes</item>
+        <item>Bytes to Biti</item>
+        <item>Bytes to KB</item>
+        <item>KB to Bytes</item>
+        <item>Bytes to MB</item>
+        <item>MB to Bytes</item>
+        <item>Bytes to GB</item>
+        <item>GB to Bytes</item>
+        <item>KB to MB</item>
+        <item>MB to KB</item>
+        <item>KB to GB</item>
+        <item>GB to KB</item>
+        <item>MB to GB</item>
+        <item>GB to MB</item>
+        <item>KB to TB</item>
+        <item>TB to KB</item>
+        <item>MB to TB</item>
+        <item>TB to MB</item>
+        <item>GB to TB</item>
+        <item>TB to GB</item>
+    </string-array>
+    <string-array name="conversion_categories">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Volume</item>
+        <item>Speed</item>
+        <item>Energy</item>
+        <item>Pressure</item>
+        <item>Area</item>
+        <item>Data</item>
+    </string-array>
+</resources>
